@@ -1,0 +1,21 @@
+# UNITY FOLDERS TO IGNORE
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# UNITY CRASH/ERROR FILES
+sysinfo.txt
+
+# VISUAL STUDIO / RIDER FILES
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
