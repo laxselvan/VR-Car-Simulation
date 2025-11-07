@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Car Simulation/Scenes/Car_VR.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb9237615cd8c66448b9d3e743af8e02,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d4032c615d5963f4c94471026c093c4a,
+      type: 2}
