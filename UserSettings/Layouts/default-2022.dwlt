@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 990
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -301,8 +301,8 @@ MonoBehaviour:
     y: 0
     width: 403
     height: 940
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 20}
@@ -347,9 +347,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c0850000
-      m_LastClickedID: 34240
-      m_ExpandedIDs: 70f9ffff24fbffff48850000
+      m_SelectedIDs: 54890000
+      m_LastClickedID: 35156
+      m_ExpandedIDs: 74f8ffff00faffff04faffff24fbffff688500006e850000d6850000dc850000b4860000c6860000d68600001287000020870000cc870000368800005889000066890000a88b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -782,9 +782,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.4549771, y: -0.36301455, z: 9.661278}
+    m_Target: {x: -4.5840898, y: -5.319601, z: 5.932895}
     speed: 2
-    m_Value: {x: -0.4549771, y: -0.36301455, z: 9.661278}
+    m_Value: {x: -4.5840898, y: -5.319601, z: 5.932895}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -830,9 +830,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.035488654, y: -0.059501056, z: 0.0021290593, w: 0.99760324}
+    m_Target: {x: 0.2960301, y: -0.35076833, z: 0.11793522, w: 0.88058895}
     speed: 2
-    m_Value: {x: 0.036236547, y: -0.059498947, z: 0.0021736678, w: 0.997568}
+    m_Value: {x: 0.29611582, y: -0.35010466, z: 0.11771211, w: 0.88084394}
   m_Size:
     m_Target: 4.849177
     speed: 2
@@ -842,8 +842,8 @@ MonoBehaviour:
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 0.7406308
-    m_SpeedNormalized: 0.3700004
+    m_Speed: 0.26087078
+    m_SpeedNormalized: 0.1300004
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -1052,7 +1052,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 66d90000f4590200cea1000080f5000024f801002cf80100a82d0100ba310100f46e010008680100562f0100501a02006e530200b83301000ce60100760d0300f6eb000000000000ba9b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
